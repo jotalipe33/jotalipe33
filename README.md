@@ -31,7 +31,13 @@ ONLINE 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotalipe33&theme=tokyonight&hide_border=true"/>
 
 </div>
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jotalipe33/jotalipe33/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 <!--
 **jotalipe33/jotalipe33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
