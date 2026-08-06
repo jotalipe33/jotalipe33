@@ -1,4 +1,20 @@
-## Hi there 👋
+████████████████████████████████
+
+             JOÃO FELIPE
+
+      Backend Developer
+
+ HTML • CSS • Python • AI
+
+████████████████████████████████
+
+✔ Python Loaded
+✔ GitHub Connected
+✔ AI Engine Running
+✔ Backend Initialized
+
+Status:
+ONLINE 🚀
 
 <!--
 **jotalipe33/jotalipe33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
